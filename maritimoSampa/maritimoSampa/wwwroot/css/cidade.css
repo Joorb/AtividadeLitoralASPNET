@@ -1,0 +1,128 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    font-family: 'Poppins';
+}
+
+body {
+    background-image: linear-gradient(to bottom, #28495B, #372412);
+}
+
+.header {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.header-image {
+    height: 70px;
+    width: auto;
+}
+
+.header-text {
+    color: #B5DAEE;
+    flex-grow: 1;
+    text-align: center;
+    font-size: 45px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.home {
+    width:100px;
+}
+
+.container{
+    margin-top:5%;
+}
+
+.init {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.part1 {
+    width: 40%;
+    background-color: rgba(115, 158, 172, 0.37);
+    border-radius: 10px;
+}
+
+.part1 p {
+    font-size: 30px;
+    color: #B5DAEE;
+    padding:10px;
+}
+.imgpart {
+    width: 40%;
+    height:90%;
+    border-radius: 10px;
+}
+
+.imgpartimg {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: solid 4px;
+    border-color: #B5DAEE;
+}
+
+.final {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:8%;
+}
+
+.finaltext {
+    padding:10px;
+    background-color: rgba(115, 158, 172, 0.37);
+    border-radius: 10px;
+    width: 60%;
+    margin-top: 5%;
+}
+
+.finalp {
+    color: #B5DAEE;
+    font-size:30px;
+}
+
+.finalimg {
+    margin-top:5%;
+    width:700px;
+}
+
+.finalimgimg {
+    width: 100%;
+    border-radius: 10px;
+    border: solid 4px;
+    border-color: #B5DAEE;
+}
+
+.final2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom:100px;
+}

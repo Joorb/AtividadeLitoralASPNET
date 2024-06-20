@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joorb\\Desktop\\maritimoSampa\\maritimoSampa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2E68A3-DF7C-48EC-9C6B-7BDAF031F74E}|maritimoSampa\\maritimoSampa.csproj|c:\\users\\joorb\\desktop\\maritimosampa\\maritimosampa\\maritimosampa\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B2E68A3-DF7C-48EC-9C6B-7BDAF031F74E}|maritimoSampa\\maritimoSampa.csproj|solutionrelative:maritimosampa\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2E68A3-DF7C-48EC-9C6B-7BDAF031F74E}|maritimoSampa\\maritimoSampa.csproj|c:\\users\\joorb\\desktop\\maritimosampa\\maritimosampa\\maritimosampa\\views\\home\\itanhaem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B2E68A3-DF7C-48EC-9C6B-7BDAF031F74E}|maritimoSampa\\maritimoSampa.csproj|solutionrelative:maritimosampa\\views\\home\\itanhaem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2E68A3-DF7C-48EC-9C6B-7BDAF031F74E}|maritimoSampa\\maritimoSampa.csproj|c:\\users\\joorb\\desktop\\maritimosampa\\maritimosampa\\maritimosampa\\wwwroot\\css\\cidade.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B2E68A3-DF7C-48EC-9C6B-7BDAF031F74E}|maritimoSampa\\maritimoSampa.csproj|solutionrelative:maritimosampa\\wwwroot\\css\\cidade.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2E68A3-DF7C-48EC-9C6B-7BDAF031F74E}|maritimoSampa\\maritimoSampa.csproj|c:\\users\\joorb\\desktop\\maritimosampa\\maritimosampa\\maritimosampa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2E68A3-DF7C-48EC-9C6B-7BDAF031F74E}|maritimoSampa\\maritimoSampa.csproj|solutionrelative:maritimosampa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Joorb\\Desktop\\maritimoSampa\\maritimoSampa\\maritimoSampa\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "maritimoSampa\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Joorb\\Desktop\\maritimoSampa\\maritimoSampa\\maritimoSampa\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "maritimoSampa\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-20T01:05:33.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cidade.css",
+              "DocumentMoniker": "C:\\Users\\Joorb\\Desktop\\maritimoSampa\\maritimoSampa\\maritimoSampa\\wwwroot\\css\\cidade.css",
+              "RelativeDocumentMoniker": "maritimoSampa\\wwwroot\\css\\cidade.css",
+              "ToolTip": "C:\\Users\\Joorb\\Desktop\\maritimoSampa\\maritimoSampa\\maritimoSampa\\wwwroot\\css\\cidade.css",
+              "RelativeToolTip": "maritimoSampa\\wwwroot\\css\\cidade.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T22:31:21.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Itanhaem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joorb\\Desktop\\maritimoSampa\\maritimoSampa\\maritimoSampa\\Views\\Home\\Itanhaem.cshtml",
+              "RelativeDocumentMoniker": "maritimoSampa\\Views\\Home\\Itanhaem.cshtml",
+              "ToolTip": "C:\\Users\\Joorb\\Desktop\\maritimoSampa\\maritimoSampa\\maritimoSampa\\Views\\Home\\Itanhaem.cshtml",
+              "RelativeToolTip": "maritimoSampa\\Views\\Home\\Itanhaem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T00:40:09.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Joorb\\Desktop\\maritimoSampa\\maritimoSampa\\maritimoSampa\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "maritimoSampa\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Joorb\\Desktop\\maritimoSampa\\maritimoSampa\\maritimoSampa\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "maritimoSampa\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:53:30.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

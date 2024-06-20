@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+
+        <div id="img"><img src="~/img/AA.png" alt="logo"></div>
+    
+        <p class="">Agora a seguir mostraremos as cidades do Litoral de São Paulo (SP) com maiores taxas de Importação e Exportação</p>
+        
+        <div class="botoes">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Santos"><h1 class="cdd">Santos</h1></a>
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Guaruja"><h1 class="cdd">Guarujá</h1></a>
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="SaoSebastiao"><h1 class="cdd">São Sebastião</h1></a>
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Itanhaem"><h1 class="cdd">Itanhaém</h1></a>
+        </div>
+
+    </div>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>
