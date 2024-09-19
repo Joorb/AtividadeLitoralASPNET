@@ -22,23 +22,6 @@ namespace maritimoSampa.Controllers
         {
             return View();
         }
-
-        public IActionResult Santos()
-        {
-            return View();
-        }
-        public IActionResult Guaruja()
-        {
-            return View();
-        }
-        public IActionResult SaoSebastiao()
-        {
-            return View();
-        }
-        public IActionResult Itanhaem()
-        {
-            return View();
-        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

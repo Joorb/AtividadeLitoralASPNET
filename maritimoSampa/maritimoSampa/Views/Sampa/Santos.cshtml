@@ -1,0 +1,77 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+@model IEnumerable<Municipio>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/cidade.css" asp-append-version="true" />
+</head>
+<body>
+
+    <header class="header">
+        <a class="navbar-brand" asp-area="" asp-controller="Sampa" asp-action="Itanhaem"><img src="~/img/seta-esquerda.png" class="header-image" /></a>
+        <h1 class="header-text">@ViewBag.nome</h1>
+        <a class="navbar-brand" asp-area="" asp-controller="Sampa" asp-action="Guaruja"><img src="~/img/seta-direita.png" class="header-image" /></a>
+    </header>
+
+
+    <div class="center">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img class="home" src="~/img/home.png" alt="home" /></a>
+    </div>
+    @foreach (var santos in Model)
+    {
+        <div class="container">
+
+            <div class="init">
+                <div class="part1">
+                    <p>
+
+                        @santos.desc
+
+
+                    </p>
+                </div>
+                <div class="imgpart"><img class="imgpartimg" src="~/img/san.jpg" /></div>
+            </div>
+
+        </div>
+
+        <div class="final">
+            <div class="finalimg"><img class="finalimgimg" src="~/img/santos.jpg" /></div>
+
+            <div class="finaltext">
+                <p class="finalp">
+                    @foreach (var Historia in santos.Historia)
+                    {
+                        @Historia.resumoHistorico
+                    }
+                </p>
+            </div>
+
+        </div>
+
+        <div class="final2">
+            <div class="finalimg"><img class="finalimgimg" src="~/img/soja.webp" /></div>
+
+            <div class="finaltext">
+                <p class="finalp">
+                    @foreach (var Produto in santos.Produto)
+                    {
+                        @Produto.descp
+                    }
+                </p>
+            </div>
+        </div>
+
+
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    }
+</body>
+</html>
