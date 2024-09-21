@@ -3,9 +3,10 @@
     "",
     "\\maritimoSampa",
     "\\maritimoSampa\\maritimoSampa",
-    "\\maritimoSampa\\maritimoSampa\\wwwroot",
-    "\\maritimoSampa\\maritimoSampa\\wwwroot\\css"
+    "\\maritimoSampa\\maritimoSampa\\Controllers",
+    "\\maritimoSampa\\maritimoSampa\\Views",
+    "\\maritimoSampa\\maritimoSampa\\Views\\Sampa"
   ],
-  "SelectedNode": "\\maritimoSampa\\maritimoSampa\\wwwroot\\css\\site.css",
+  "SelectedNode": "\\maritimoSampa\\maritimoSampa\\Views\\Sampa\\Guaruja.cshtml",
   "PreviewInSolutionExplorer": false
 }

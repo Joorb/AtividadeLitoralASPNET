@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cOFd9tfkUwCJF+uhQBselV7BLoVOwOKwHqwAZ2J/Sl4=",
+  "Hash": "kls37bScZzlmdCdyzK7+kuqG32uhqbRf/UKEKJ2Zo9k=",
   "Source": "maritimoSampa",
   "BasePath": "_content/maritimoSampa",
   "Mode": "Default",
@@ -243,6 +243,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\itanhaem.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\AtividadeLitoralASPNET\\maritimoSampa\\maritimoSampa\\wwwroot\\img\\maps.png",
+      "SourceId": "maritimoSampa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\AtividadeLitoralASPNET\\maritimoSampa\\maritimoSampa\\wwwroot\\",
+      "BasePath": "_content/maritimoSampa",
+      "RelativePath": "img/maps.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\maps.png"
     },
     {
       "Identity": "C:\\Users\\user\\source\\repos\\AtividadeLitoralASPNET\\maritimoSampa\\maritimoSampa\\wwwroot\\img\\pescados.png",

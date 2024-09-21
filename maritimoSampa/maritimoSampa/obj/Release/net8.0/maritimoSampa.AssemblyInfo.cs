@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maritimoSampa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce95c0a74b7c4205456ebab229e379eef17e52a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1da6cb86c084cc4f36c6fdb26fa5aa1204dccb09")]
 [assembly: System.Reflection.AssemblyProductAttribute("maritimoSampa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maritimoSampa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

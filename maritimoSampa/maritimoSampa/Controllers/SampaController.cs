@@ -57,7 +57,7 @@ namespace maritimoSampa.Controllers
                 populacao = 322.750,
                 desc = "Guarujá, localizado no litoral do estado de São Paulo, tem uma significativa influência na economia de " +
             "exportação e importação do Brasil, principalmente devido à sua proximidade com o Porto de Santos, o maior porto " +
-            "da América Latina. Em resumo, Guarujá, através do Porto de ',\r\n     descInicial2: 'Santos, desempenha um " +
+            "da América Latina. Em resumo, Guarujá, através do Porto de Santos, desempenha um " +
             "papel vital na economia de exportação e importação do Brasil, contribuindo significativamente para o comércio " +
             "internacional, geração de empregos e desenvolvimento econômico regional.",
             Historia = new List<Historia>{

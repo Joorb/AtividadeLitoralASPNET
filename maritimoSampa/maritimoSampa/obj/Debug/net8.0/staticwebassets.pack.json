@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\img\\itanhaem.jpg"
     },
     {
+      "Id": "C:\\Users\\user\\source\\repos\\AtividadeLitoralASPNET\\maritimoSampa\\maritimoSampa\\wwwroot\\img\\maps.png",
+      "PackagePath": "staticwebassets\\img\\maps.png"
+    },
+    {
       "Id": "C:\\Users\\user\\source\\repos\\AtividadeLitoralASPNET\\maritimoSampa\\maritimoSampa\\wwwroot\\img\\pescados.png",
       "PackagePath": "staticwebassets\\img\\pescados.png"
     },
